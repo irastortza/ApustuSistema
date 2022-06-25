@@ -1,0 +1,315 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:47:32 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 5432@DESKTOP-JPFQ8VL
+
+[2022-02-28 13:47:33 #2 type.registry] 
+New type domain.Erabiltzailea
+
+[2022-02-28 13:47:33 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 13:47:33 #4 type.registry] 
+New type domain.Question
+
+[2022-02-28 13:47:33 #5 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:47:33 #6 type.registry] 
+New type domain.Aukera
+
+[2022-02-28 13:47:33 #7 type.registry] 
+New type domain.Event
+
+[2022-02-28 13:47:33 #8 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-28 13:47:33 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-28 13:47:33 #10 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-02-28 13:47:33 #11 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-02-28 13:47:33 #12 type.registry] 
+New type java.util.ArrayList<domain.Aukera>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:49:08 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 9104@DESKTOP-JPFQ8VL
+
+[2022-02-28 13:49:08 #2 type.registry] 
+New type domain.Erabiltzailea
+
+[2022-02-28 13:49:08 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 13:49:08 #4 type.registry] 
+New type domain.Question
+
+[2022-02-28 13:49:08 #5 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:49:08 #6 type.registry] 
+New type domain.Aukera
+
+[2022-02-28 13:49:08 #7 type.registry] 
+New type domain.Event
+
+[2022-02-28 13:49:08 #8 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-28 13:49:08 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-28 13:49:08 #10 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-02-28 13:49:08 #11 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-02-28 13:49:08 #12 type.registry] 
+New type java.util.ArrayList<domain.Aukera>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:49:45 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 12248@DESKTOP-JPFQ8VL
+
+[2022-02-28 13:49:46 #2 type.registry] 
+New type domain.Erabiltzailea
+
+[2022-02-28 13:49:46 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 13:49:46 #4 type.registry] 
+New type domain.Question
+
+[2022-02-28 13:49:46 #5 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:49:46 #6 type.registry] 
+New type domain.Aukera
+
+[2022-02-28 13:49:46 #7 type.registry] 
+New type domain.Event
+
+[2022-02-28 13:49:46 #8 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-28 13:49:46 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-28 13:49:46 #10 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-02-28 13:49:46 #11 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-02-28 13:49:46 #12 type.registry] 
+New type java.util.ArrayList<domain.Aukera>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:50:29 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 5580@DESKTOP-JPFQ8VL
+
+[2022-02-28 13:50:30 #2 type.registry] 
+New type domain.Erabiltzailea
+
+[2022-02-28 13:50:30 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 13:50:30 #4 type.registry] 
+New type domain.Question
+
+[2022-02-28 13:50:30 #5 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:50:30 #6 type.registry] 
+New type domain.Aukera
+
+[2022-02-28 13:50:30 #7 type.registry] 
+New type domain.Event
+
+[2022-02-28 13:50:30 #8 type] 
+Type domain.Event is not enhanced.
+
+[2022-02-28 13:50:30 #9 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2022-02-28 13:50:30 #10 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+[2022-02-28 13:50:30 #11 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2022-02-28 13:50:30 #12 type.registry] 
+New type java.util.ArrayList<domain.Aukera>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:55:14 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 1236@DESKTOP-JPFQ8VL
+
+[2022-02-28 13:55:14 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 13:55:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:55:15 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 13:57:44 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 9-9)
+
+[2022-02-28 13:57:44 #2 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 6004@DESKTOP-JPFQ8VL
+
+[2022-02-28 13:57:45 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 13:57:45 #4 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 13:57:45 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:05:01 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 10-10)
+
+[2022-02-28 14:05:02 #2 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 2720@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:05:02 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:05:02 #4 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:05:02 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:05:30 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 3224@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:05:31 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:05:31 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:05:31 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:08:50 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' has been recovered (tr. 11-11)
+
+[2022-02-28 14:08:50 #2 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 8844@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:08:50 #3 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:08:50 #4 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:08:50 #5 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:10:13 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 10476@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:10:13 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:10:13 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:10:13 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:11:24 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 7480@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:11:24 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:11:24 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:11:24 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:11:58 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 5848@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:11:58 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:11:58 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:11:58 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:13:57 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 8604@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:13:57 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:13:57 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:13:57 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:15:15 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 7264@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:15:15 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:15:15 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:15:15 #4 type] 
+Type domain.Event is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2022-02-28 14:16:50 #1 store] 
+Database 'C:\Users\USR\git\Bets21\src\main\resources\bets.temp' is opened by 11608@DESKTOP-JPFQ8VL
+
+[2022-02-28 14:16:50 #2 type] 
+Type domain.Erabiltzailea is not enhanced.
+
+[2022-02-28 14:16:50 #3 type] 
+Type domain.Question is not enhanced.
+
+[2022-02-28 14:16:50 #4 type] 
+Type domain.Event is not enhanced.
+
